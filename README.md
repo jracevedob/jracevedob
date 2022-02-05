@@ -4,7 +4,7 @@
 
 I am researcher and professional engineer in the fields of Telecommunications and Hardware Design in Dresden, Germany. 
 
-Before joining  [Inc.](https://www.xilinx.com/), I had the pleasure of being part of [Infineon](https://www.infineon.com/), [Fraunhofer Integrierte Schaltungen (IIS)](https://www.iis.fraunhofer.de/), and [Michelin (Mefro Wheels) France](https://middle-east.michelin.com/en/). 
+Before joining  [Inc.](), I had the pleasure of being part of [Infineon](https://www.infineon.com/), [Fraunhofer Integrierte Schaltungen (IIS)](https://www.iis.fraunhofer.de/), and [Michelin (Mefro Wheels) France](https://middle-east.michelin.com/en/). 
 
 
 ## Research Focus and Engineering Development
@@ -30,6 +30,6 @@ In this section, you will find a set of project I am working on parallel to my w
 
 ## Contact
 
-You can contact me mainly via E-mail under the following [address](jracevedob@gmail.com) or 
+You can contact me mainly via E-mail under the following [address](mailto:jracevedob@gmail.com) or [Twitter](https://twitter.com/enkontexter) account.
 
 

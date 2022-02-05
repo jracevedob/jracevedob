@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jracevedob&count_private=true&include_all_commits=true"/>
 
-# [Javier Acevedo](https://jracevedob.github.com) 
+# [Javier Acevedo](https://jracevedob.github.io) 
 
 I am researcher and professional engineer in the fields of Telecommunications and Hardware Design in Dresden, Germany. 
 

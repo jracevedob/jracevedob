@@ -16,7 +16,7 @@ Currently, my website is under development, but you will find all the important 
 
 ## Interesting Links
 
-In this section, you will find a set of project I am working on parallel to my work as an engineer. Those projets range from implementation of image detection and segmentation for ADAS to my work as a professional teacher for German, French, Spanish in cooperation with the Goethe Institut, Institut Francais and the Enkontext Group in Dresden.
+In this section, you will find a set of project I am working on parallel to my work as an engineer. Those projets range from the implementation of image detection and segmentation for ADAS, to my work as a professional teacher for German, French, Spanish in cooperation with the Goethe Institut, Institut Francais, and the Enkontext Group, respectively, in Dresden.
 
 [ADAS Development on Multi-Processor System-on-Chip](https://www.youtube.com/channel/UCsfqqaoYj76p6PLTg8Fztcw/videos) - Image segmentation and detection in a real car scene.
 
@@ -26,7 +26,7 @@ In this section, you will find a set of project I am working on parallel to my w
 
 [Deutsch Lehren Lernen bei Goethe Institut]() - DLL Program between Goethe Institut and the University of Kiel.
 
-[Enkontext Gruppe]() - Democratization to the access language.
+[Enkontext Gruppe]() - Democratization of the access language.
 
 ## Contact
 

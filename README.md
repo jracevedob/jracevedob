@@ -26,7 +26,7 @@ In this section, you will find a set of project I am working on parallel to my w
 
 [Deutsch Lehren Lernen bei Goethe Institut]() - DLL Program between Goethe Institut and the University of Kiel.
 
-[Enkontext Gruppe]() - Democratization of the access language.
+[Enkontext Gruppe]() - Democratization of the language access.
 
 ## Contact
 

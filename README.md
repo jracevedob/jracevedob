@@ -4,9 +4,9 @@
 
 I am researcher and professional engineer in the fields of Telecommunications and Hardware Design in Dresden, Germany. 
 
-## Moto
+## Motto
 
-I'd rather die standing than live forever kneeling - Emiliano Zapata.
+It is better to die on your feet that live on your knees - Emiliano Zapata.
 
 
 ## Contact

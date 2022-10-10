@@ -2,11 +2,15 @@
 
 # [Javier Acevedo](https://jracevedob.github.io) 
 
-I am researcher and professional engineer in the fields of Telecommunications and Hardware Design in Dresden, Germany. 
+I am professional baseband system engineer in Dresden, Germany. I am mostly interested on designing and deploying 
+versatile and agile state-of-the-art compute platforms for Wireless Communication RAN and Core Network. 
 
 ## Motto
 
 It is better to die on your feet that live on your knees - Emiliano Zapata.
+
+## Main functional motivation
+Hardware-Software Co-Design of the entire product development life cycle for 5G's RAN and Core Network.
 
 
 ## Contact

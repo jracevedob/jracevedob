@@ -18,3 +18,7 @@ Hardware-Software Co-Design of the entire product development life cycle for 5G'
 You can contact me mainly via E-mail under the following [address](mailto:jracevedob@gmail.com) or [Twitter](https://twitter.com/enkontexter) account.
 
 
+## Job offer
+
+We are looking for researchers in the field of hardware accelerators, applied to implementation of channel estimation kernels in RISC-V for massive MIMO systems in 6G.
+https://www.timeshighereducation.com/unijobs/listing/346712/research-associate-m-f-x-/

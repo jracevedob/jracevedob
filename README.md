@@ -17,5 +17,9 @@ Hardware-Software Co-Design of the entire product development life cycle for 5G'
 
 You can contact me mainly via E-mail under the following [address](mailto:jracevedob@gmail.com) or [Twitter](https://twitter.com/enkontexter) account.
 
+## Current projects
 
-
+In this moement, we are working on three different projects ranging from wireless communications until power electroncis and genetics.
+1. Hardware accelerated version of the Open RAN Intelligent Controller (RIC).
+2. Hardware-in-the-Loop for power electronics application for DC-DC voltage control.
+3. Hardware accelerated version of the training sequence for protein folding.

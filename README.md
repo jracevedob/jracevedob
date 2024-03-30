@@ -19,7 +19,6 @@ You can contact me mainly via E-mail under the following [address](mailto:jracev
 
 ## Current projects
 
-In this moement, we are working on three different projects ranging from wireless communications until power electroncis and genetics.
+In this moement, we are working on two different projects about wireless communications and genetics.
 1. Hardware accelerated version of the Open RAN Intelligent Controller (RIC).
-2. Hardware-in-the-Loop for power electronics application for DC-DC voltage control.
-3. Hardware accelerated version of the training sequence for protein folding.
+2. Hardware accelerated version of the training sequence for protein folding.

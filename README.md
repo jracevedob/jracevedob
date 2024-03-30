@@ -21,4 +21,4 @@ You can contact me mainly via E-mail under the following [address](mailto:jracev
 
 In this moement, we are working on two different projects about wireless communications and genetics.
 1. Hardware accelerated version of the Open RAN Intelligent Controller (RIC).
-2. Hardware accelerated version of the training sequence for protein folding.
+2. Hardware accelerated version of the training sequence for protein folding.  [ESM Meta](https://github.com/jracevedob/esm)

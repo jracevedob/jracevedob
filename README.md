@@ -3,7 +3,7 @@
 # [Javier Acevedo](https://jracevedob.github.io) 
 
 I am professional baseband system engineer in Dresden, Germany. I am mostly interested on designing and deploying 
-versatile and agile state-of-the-art compute platforms for Wireless Communication RAN and Core Network. 
+versatile and agile state-of-the-art compute platforms for wireless communication systems. I am currently working on bringing hardware acceleration to the Radio Access Network (RAN), while integrating it with the Core Network. 
 
 ## Motto
 

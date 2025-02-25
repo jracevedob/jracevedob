@@ -15,7 +15,7 @@ Hardware-Software Co-Design of the entire product development life cycle for 5G'
 
 ## Contact
 
-You can contact me mainly via E-mail under the following [address](mailto:jracevedob@gmail.com) or [Twitter](https://twitter.com/enkontexter) account.
+You can contact me mainly via E-mail under the following [address](mailto:jracevedob@gmail.com) account.
 
 ## Current projects
 

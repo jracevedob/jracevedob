@@ -25,3 +25,9 @@ In this moement, we are working on two different projects about wireless communi
 
 ## Learning and traning
 Currently, I am learning how to employ Svelt and Nx Monorepo to enhance frontend development. This is my first approach to frontend development.
+
+## News
+rApps: the Non Real Time RAN Intelligent Controller (RIC) represents a great opportunity for innovation in wireless communication networks.
+I have had the pleasure to start working on the Open RAN Software Community with the target in mind of being able to develop rApps to control the whole RAN.
+
+![image](https://github.com/user-attachments/assets/90e67d4b-7ae4-4e0b-b37a-1a29ef5fae51)

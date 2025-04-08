@@ -20,14 +20,15 @@ You can contact me mainly via E-mail under the following [address](mailto:jracev
 ## Current projects
 
 In this moement, we are working on two different projects about wireless communications and genetics.
-1. Hardware accelerated version of the Open RAN Intelligent Controller (RIC).
+1. Hardware accelerated version of the Open RAN Intelligent Controller (RIC). [RIC Accelerator]()
 2. Hardware accelerated version of the training sequence for protein folding.  [ESM Meta](https://github.com/jracevedob/esm)
 
-## Learning and traning
+## Learning and trianing
+
 Currently, I am learning how to employ Svelt and Nx Monorepo to enhance frontend development. This is my first approach to frontend development.
 
 ## News
-rApps: the Non Real Time RAN Intelligent Controller (RIC) represents a great opportunity for innovation in wireless communication networks.
+07/04/2025 rApps: the Non Real Time RAN Intelligent Controller (RIC) represents a great opportunity for innovation in wireless communication networks.
 I have had the pleasure to start working on the Open RAN Software Community with the target in mind of being able to develop rApps to control the whole RAN.
 
 ![image](https://github.com/user-attachments/assets/90e67d4b-7ae4-4e0b-b37a-1a29ef5fae51)

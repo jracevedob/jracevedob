@@ -31,4 +31,6 @@ Currently, I am learning how to employ [Svelte](https://svelte.dev/) and [Nx Mon
 07/04/2025 rApps: the [Non Real Time RAN Intelligent Controller (RIC)]() represents a great opportunity for innovation in wireless communication networks.
 I have had the pleasure to start working on the Open RAN Software Community with the target in mind of being able to develop rApps to control the whole RAN.
 
+03/07/2025: Radar on Chip: we are working on the development of Active Electronically Scanned Arrays (AESA) on the RISC-V architecture
+
 ![image](https://github.com/user-attachments/assets/90e67d4b-7ae4-4e0b-b37a-1a29ef5fae51)
